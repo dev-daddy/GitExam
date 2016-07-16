@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "Project Diva");
         Log.d(TAG, "Project Rock");
         Log.d(TAG, "Master");
+        Log.d(TAG, "Hello! GitHub");
     }
 }
